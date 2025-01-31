@@ -2,9 +2,7 @@
 
 
 1.	Introduction
-
 DAODeSci is an ecosystem aimed at shaping the future of decentralized scientific research. It seeks to finance and support high-quality, innovative scientific projects through a community-driven structure, with the assistance of AI-powered governance and decision-making processes. By ensuring transparency and efficiency, DAODeSci contributes to the promotion of decentralized scientific progress. The DAO's strength lies in the combination of scientific knowledge and community engagement, which collectively fosters sustainable and accessible global scientific research.
-
 2.	Mission and Vision
 Mission:
 DAODeSci aims to create a community-based ecosystem that provides financial support to scientific research, enhances scientific knowledge, and establishes a robust foundation for future projects. The core objective is to facilitate decentralized scientific progress by leveraging AI-powered decision-making mechanisms, ensuring transparency, effectiveness, and sustainability. Additionally, the DAO will foster collaborations and social responsibility initiatives to make scientific research more accessible globally.
